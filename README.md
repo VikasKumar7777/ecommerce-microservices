@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Microservices
 
-A full-stack, production-grade e-commerce backend built with **Spring Boot**, **Spring Cloud**, and a rich ecosystem of microservices patterns. This project demonstrates real-world distributed systems design including async messaging, service discovery, centralized configuration, distributed tracing, and security via Keycloak.
+A production-grade e-commerce backend built with **Spring Boot**, **Spring Cloud**, and a rich ecosystem of microservices patterns. This project demonstrates real-world distributed systems design including async messaging, service discovery, centralized configuration, distributed tracing, and security via Keycloak.
 
 ---
 
