@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:      # ← must be indented under data
+      username: user
+      password: password
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
+
+server:
+  port: 8090
